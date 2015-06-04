@@ -1,0 +1,8 @@
+E:\work\FreeNet\VirusWarGameServer\bin\Release\VirusWarGameServer.exe.config
+E:\work\FreeNet\VirusWarGameServer\bin\Release\VirusWarGameServer.exe
+E:\work\FreeNet\VirusWarGameServer\bin\Release\VirusWarGameServer.pdb
+E:\work\FreeNet\VirusWarGameServer\bin\Release\FreeNet.dll
+E:\work\FreeNet\VirusWarGameServer\bin\Release\FreeNet.pdb
+E:\work\FreeNet\VirusWarGameServer\obj\Release\VirusWarGameServer.csprojResolveAssemblyReference.cache
+E:\work\FreeNet\VirusWarGameServer\obj\Release\VirusWarGameServer.exe
+E:\work\FreeNet\VirusWarGameServer\obj\Release\VirusWarGameServer.pdb

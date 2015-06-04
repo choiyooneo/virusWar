@@ -1,0 +1,8 @@
+E:\work\FreeNet\CSampleClient\bin\Debug\CSampleClient.exe.config
+E:\work\FreeNet\CSampleClient\bin\Debug\CSampleClient.exe
+E:\work\FreeNet\CSampleClient\bin\Debug\CSampleClient.pdb
+E:\work\FreeNet\CSampleClient\bin\Debug\FreeNet.dll
+E:\work\FreeNet\CSampleClient\bin\Debug\FreeNet.pdb
+E:\work\FreeNet\CSampleClient\obj\Debug\CSampleClient.csprojResolveAssemblyReference.cache
+E:\work\FreeNet\CSampleClient\obj\Debug\CSampleClient.exe
+E:\work\FreeNet\CSampleClient\obj\Debug\CSampleClient.pdb

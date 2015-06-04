@@ -1,0 +1,16 @@
+D:\opensource\FreeNet\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe.config
+D:\opensource\FreeNet\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe
+D:\opensource\FreeNet\VirusWarGameServer\bin\Debug\VirusWarGameServer.pdb
+D:\opensource\FreeNet\VirusWarGameServer\bin\Debug\FreeNet.dll
+D:\opensource\FreeNet\VirusWarGameServer\bin\Debug\FreeNet.pdb
+D:\opensource\FreeNet\VirusWarGameServer\obj\Debug\VirusWarGameServer.csprojResolveAssemblyReference.cache
+D:\opensource\FreeNet\VirusWarGameServer\obj\Debug\VirusWarGameServer.exe
+D:\opensource\FreeNet\VirusWarGameServer\obj\Debug\VirusWarGameServer.pdb
+E:\work\FreeNet\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe.config
+E:\work\FreeNet\VirusWarGameServer\obj\Debug\VirusWarGameServer.exe
+E:\work\FreeNet\VirusWarGameServer\obj\Debug\VirusWarGameServer.pdb
+E:\work\FreeNet\VirusWarGameServer\obj\Debug\VirusWarGameServer.csprojResolveAssemblyReference.cache
+E:\work\FreeNet\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe
+E:\work\FreeNet\VirusWarGameServer\bin\Debug\VirusWarGameServer.pdb
+E:\work\FreeNet\VirusWarGameServer\bin\Debug\FreeNet.dll
+E:\work\FreeNet\VirusWarGameServer\bin\Debug\FreeNet.pdb

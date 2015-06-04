@@ -1,0 +1,9 @@
+D:\opensource\FreeNet\FreeNet\bin\Release\FreeNet.dll
+D:\opensource\FreeNet\FreeNet\bin\Release\FreeNet.pdb
+D:\opensource\FreeNet\FreeNet\obj\Release\FreeNet.dll
+D:\opensource\FreeNet\FreeNet\obj\Release\FreeNet.pdb
+E:\work\FreeNet\FreeNet\bin\Release\FreeNet.dll
+E:\work\FreeNet\FreeNet\bin\Release\FreeNet.pdb
+E:\work\FreeNet\FreeNet\obj\Release\FreeNet.csprojResolveAssemblyReference.cache
+E:\work\FreeNet\FreeNet\obj\Release\FreeNet.dll
+E:\work\FreeNet\FreeNet\obj\Release\FreeNet.pdb
